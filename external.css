@@ -1,0 +1,79 @@
+h1{
+    color:snow;;
+    //text-decoration: underline;
+    text-decoration-color: gold;
+    text-decoration-style: wavy;
+    background-color: #333333;
+    margin-bottom: 5px;
+    padding: 20px;
+    padding-left: 0;
+    font-size: 50px;
+    opacity: 0.6;
+    margin-top: 0
+    
+}
+
+p{
+    //background-color: aqua;
+    border:2px solid black;
+    width:480px;
+    height: 600px;
+    //opacity: 0.3;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px;
+    color:fuchsia;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://static0.srcdn.com/wordpress/wp-content/uploads/2020/07/kratos-god-of-war-.jpg);
+    background-position:center;
+    //background-attachment: fixed;  
+}
+
+footer{
+    text-align: center;
+    color: chartreuse;
+    background-color: #333333;
+    display: block;
+    padding: 5px
+        
+}
+a{
+    color:orange;
+    padding: 20px;
+    text-decoration: underline;
+    
+}
+button{
+    color: aqua;
+    background-color: black;
+    
+}
+button:hover{
+    background-color: green;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    width:100%;
+    color: white;
+
+}
+td:hover{
+    background-color: yellowgreen;
+}
+
+body{
+    display: inline;
+    margin-right: 40px;
+    padding: 30px;
+}
+
+
+
+
+
+
+

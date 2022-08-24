@@ -1,0 +1,3 @@
+AJAX
+AJAX is not a programing language
+AJAX stands for asynchronous javascript and XML
